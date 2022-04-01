@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pr14 Melega", "pr14 Melega.csproj", "{AD3D03AC-0364-4D19-BADA-EA73EFB11549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD3D03AC-0364-4D19-BADA-EA73EFB11549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3D03AC-0364-4D19-BADA-EA73EFB11549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3D03AC-0364-4D19-BADA-EA73EFB11549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3D03AC-0364-4D19-BADA-EA73EFB11549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B5E3A27-5E72-41E1-8C5A-A2A3F353A513}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Студент\Desktop\pr14 Melega\bin\Debug\pr14 Melega.exe.config
+C:\Users\Студент\Desktop\pr14 Melega\bin\Debug\pr14 Melega.exe
+C:\Users\Студент\Desktop\pr14 Melega\bin\Debug\pr14 Melega.pdb
+C:\Users\Студент\Desktop\pr14 Melega\obj\Debug\pr14 Melega.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\pr14 Melega\obj\Debug\pr14 Melega.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\pr14 Melega\obj\Debug\pr14 Melega.exe
+C:\Users\Студент\Desktop\pr14 Melega\obj\Debug\pr14 Melega.pdb

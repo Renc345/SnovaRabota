@@ -1,0 +1,69 @@
+Вариант 4
+Количество самых коротких слов: 1
+Вариант 1
+System.Linq.Enumerable+WhereArrayIterator`1[System.String]
+Входит ли слово в текст? False
+Вариант 8
+я
+ДОСТАЮ
+ИЗ ШИРОКИХ ШТАНИН
+ДУБЛИКАТОМ
+БЕСЦЕННОГО ГРУЗА.
+чИТАЙТЕ,
+ЗАВИДУЙТЕ,
+Я —
+ГРАЖДАНИН
+сОВЕТСКОГО сОЮЗА.
+i
+PULL
+OUT OF MY WIDE TROUSERS
+A DUPLICATE
+OF A PRICELESS CARGO.
+rEAD,
+ENVY,
+i AM
+A CITIZEN
+oF THE sOVIET uNION.
+Вариант 2
+Количество самых длинных слов: 1
+Вариант 3
+—
+гражданин
+Советского
+a
+am
+a
+cargo
+Read
+envy
+I
+citizen
+Of
+duplicate
+of
+my
+of
+priceless
+Soviet
+the
+trousers
+a
+Union
+wide
+груза
+Читайте
+завидуйте
+я
+Союза
+I
+pull
+out
+широких
+штанин
+дубликатом
+бесценного
+Я
+достаю
+из
+Вариант 6
+Русских букв больше
